@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 93e1de0d404234e49a58eeb10e1a0563
+timeCreated: 1485406824
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - zombie: {fileID: 50476797683958034, guid: 7890974a71ccf6647856ee33c91d5b66, type: 2}
+  - mech: {fileID: 50980380067167428, guid: b15f4dcf7b1b409498f6c70c3f91b008, type: 2}
+  - tank: {fileID: 50478297172858802, guid: 670265b0e9422a349bb0c9430d478dbb, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
