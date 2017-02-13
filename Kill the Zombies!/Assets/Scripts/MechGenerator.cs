@@ -15,7 +15,7 @@ public class MechGenerator : MonoBehaviour
 		counter = 1;
 		frameDelta = 200;
 		bossSpawn = 1000;
-		posX = gameObject.transform.position.x + 9f;
+		posX = gameObject.transform.position.x + 16f;
 
 	}
 	
