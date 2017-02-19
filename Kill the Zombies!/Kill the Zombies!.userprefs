@@ -1,10 +1,12 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ZombieBehaviour.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\AmmoGenerator.cs">
     <Files>
-      <File FileName="Assets\Scripts\ZombieBehaviour.cs" Line="12" Column="14" />
-      <File FileName="Assets\Scripts\MechGenerator.cs" Line="18" Column="46" />
-      <File FileName="Assets\Scripts\PlayerController.cs" Line="38" Column="32" />
+      <File FileName="Assets\Scripts\ZombieBehaviour.cs" Line="36" Column="1" />
+      <File FileName="Assets\Scripts\MechGenerator.cs" Line="31" Column="1" />
+      <File FileName="Assets\Scripts\PlayerController.cs" Line="56" Column="27" />
+      <File FileName="Assets\Scripts\AmmoGenerator.cs" Line="17" Column="47" />
+      <File FileName="Assets\Scripts\BulletBehaviour.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

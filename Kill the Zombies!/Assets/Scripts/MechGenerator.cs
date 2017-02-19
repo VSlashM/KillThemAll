@@ -18,7 +18,7 @@ public class MechGenerator : MonoBehaviour
 		posX = gameObject.transform.position.x + 16f;
 
 	}
-	
+
 	// Update is called once per frame
 	void Update ()
 	{
@@ -33,6 +33,6 @@ public class MechGenerator : MonoBehaviour
 		if (counter % bossSpawn == 0) {
 			Rigidbody2D tankClone = (Rigidbody2D)Instantiate (tank, startPosition, transform.rotation);
 		}
-	
+
 	}
 }
